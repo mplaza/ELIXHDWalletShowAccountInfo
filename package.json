@@ -1,0 +1,15 @@
+{
+  "name": "getelixappaccountfrommnemonic",
+  "version": "1.0.0",
+  "description": "allow users to find private key/ address of the account created for their ethereum-js hd wallet in elix app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "melanie",
+  "license": "ISC",
+  "dependencies": {
+    "bip39": "^2.5.0",
+    "ethereumjs-wallet": "^0.6.2"
+  }
+}
